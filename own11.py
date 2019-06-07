@@ -1,4 +1,4 @@
-a=input()
+a=input();
 b=a[::-1]
-
-print(b)
+m=b
+print(m)
